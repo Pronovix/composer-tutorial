@@ -1,0 +1,8 @@
+uuid: 9db9b86e-3519-4105-b5e2-2c971ff8e4a8
+langcode: en
+status: true
+dependencies: {  }
+id: config-management-menu
+label: 'Config management menu'
+description: ''
+locked: false

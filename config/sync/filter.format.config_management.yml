@@ -1,0 +1,8 @@
+uuid: 2a991b3d-3a47-4af3-9b4e-1186ae3059d9
+langcode: en
+status: true
+dependencies: {  }
+name: 'Config management'
+format: config_management
+weight: 0
+filters: {  }

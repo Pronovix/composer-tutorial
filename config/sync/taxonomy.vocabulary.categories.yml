@@ -1,0 +1,8 @@
+uuid: a97bc2f9-4fb9-4c87-b94a-77054e48947d
+langcode: en
+status: true
+dependencies: {  }
+name: Categories
+vid: categories
+description: 'workshop task'
+weight: 0
